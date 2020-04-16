@@ -20,7 +20,8 @@ def speak_with_grandma("phrase")
   elsif phrase==phrase.uppercase
     return "NO, NOT SINCE 1938!"
   end
-  
+end
+
 speak_with_grandma("hi")
 
 speak_with_grandma("HI!")
